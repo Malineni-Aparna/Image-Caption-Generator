@@ -1,6 +1,14 @@
 # Image-Caption-Generator
  Image captioning is the task of generating textual descriptions of a given image, requiring techniques of computer vision and natural language processing.
 
+
+ /content/Flicker8k_Dataset/3590739067_58baffb3a7.jpg
+1 -- woman is outside playing the guitar
+2 -- woman with guitar sings in front of building and grass
+3 -- woman with nylon stringed guitar is playing in field
+4 -- young woman lifts her voice in song in field near an old wooden structure
+5 -- the girl plays guitar while singing in rural scene
+
  ![download3](https://github.com/user-attachments/assets/fcd792b4-161a-4869-83be-0536a3b29e19)
 
 
