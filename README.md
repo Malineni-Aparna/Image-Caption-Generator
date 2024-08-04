@@ -122,3 +122,5 @@ If you encounter any bugs or issues with the loan status predictor app, please l
 ### Snippets of Project
 #
 
+![download1](https://github.com/user-attachments/assets/e2ec11ca-0f1f-44ab-9e2f-92df2abe4e2b)
+![download2](https://github.com/user-attachments/assets/9f8e45c6-b32a-43fa-90ab-bea28f2f1d8b)
